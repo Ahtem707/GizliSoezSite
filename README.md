@@ -1,1 +1,7 @@
-Start project "GizlySoez" 28.02.2020
+Start project "GizlySoez" 28.02.2021
+
+24.07.2022
+- Добавлены страницы
+- Запросы api
+- Конфигурационный файл
+- 
