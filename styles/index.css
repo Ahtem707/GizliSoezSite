@@ -1,0 +1,15 @@
+#mainContainer {
+    padding: 20px;
+}
+
+body {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer {
+    padding: 20px;
+    background-color: #254e8b;
+    color: white;
+}

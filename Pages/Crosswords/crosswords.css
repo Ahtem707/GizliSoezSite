@@ -1,0 +1,11 @@
+.blockContainer {
+    margin: 20px 0;
+}
+
+#wordInputContainer {
+    width: 200px;
+}
+
+#wordInputContainer>* {
+    width: 100%;
+}
